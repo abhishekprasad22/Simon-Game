@@ -5,7 +5,8 @@ by Milton Bradley (now a division of Hasbro) in 1978, the game consists of a cir
 yellow), each associated with a specific tone.
 
 The following repository contains the website adaptation of the Simon Game in which it contains four buttons "Green, Red, Yellow and Blue"
-![image](https://github.com/user-attachments/assets/3f99233f-4103-44a9-bacc-c066d68713cf)
+![image](https://github.com/user-attachments/assets/44da5aa1-87d0-443e-a36c-78db89bb871b)
+
 
 <b>How to Play:</b>
 1. Start the Game: The game begins when the player presses any keyboard button. Then lights up one of the four colored buttons and plays the corresponding tone.
